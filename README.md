@@ -1,2 +1,8 @@
-# web_practice
-web practice
+# coding_practice
+Coding paractice repositry
+
+## html5
+
+## python
+
+
