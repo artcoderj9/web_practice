@@ -18,6 +18,18 @@
     - d + d: delete current cell
     - Enter: edit mode
     - shift + tab : show docstring
+6. disable autocomplete
+    - (), [], {}, "" 사용시 자동으로 완성시키는 기능 disable
+    - ~/.jupyter/nbconfig/notebook.json 수정
+    ~~~
+    {
+        "CodeCell": {
+            "cm_config": {
+            "autoCloseBrackets": false
+            }
+        }
+    }
+    ~~~
 6. IPython built-in magic command
     - https://ipython.readthedocs.io/en/stable/interactive/magics.html
 7. Jupyter notebook slideshow extension

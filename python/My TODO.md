@@ -6,6 +6,9 @@
 * slicing
 * enumeration 은 어떻게?
 * switch 과 유사한 표현방법
+* global keywords (keywords 정리할것)
+* range, xrange
+* Operator Precedence
 
 ### function 관련 추가로 공부해야할 토픽
 * First-Class Citizen
