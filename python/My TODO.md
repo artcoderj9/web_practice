@@ -8,7 +8,8 @@
 * switch 과 유사한 표현방법
 
 ### function 관련 추가로 공부해야할 토픽
-* 
+* First-Class Citizen
+* Functional Programming
 
 ### class 관련 추가로 공부해야할 토픽
 * 
